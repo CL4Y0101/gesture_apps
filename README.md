@@ -1,6 +1,6 @@
 # Aplikasi Pembelajaran Gesture (Flutter)
 
-Aplikasi ini merupakan media pembelajaran interaktif berbasis Flutter untuk memahami berbagai jenis gesture (sentuhan) pada aplikasi mobile. Pengguna dapat mempelajari bagaimana interaksi seperti tap, drag, hingga pinch-to-zoom bekerja secara langsung melalui simulasi.
+Aplikasi berbasis Flutter untuk memahami berbagai jenis gesture (sentuhan) pada aplikasi mobile. Pengguna dapat mempelajari bagaimana interaksi seperti tap, drag, hingga pinch-to-zoom bekerja secara langsung melalui simulasi.
 
 ---
 
@@ -230,13 +230,3 @@ Gesture multi-touch seperti pinch lebih optimal pada perangkat mobile dibandingk
 
 ---
 
-## Penulis
-
-Nama: [Isi Nama Anda]
-Bidang: Flutter Developer dan Artificial Intelligence
-
----
-
-## Lisensi
-
-Proyek ini menggunakan lisensi MIT.
